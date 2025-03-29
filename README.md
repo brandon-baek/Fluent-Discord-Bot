@@ -1,4 +1,7 @@
+![Fluent Icon](https://github.com/user-attachments/assets/74662c29-f796-4054-b92b-27e01cbe0e72)
+
 # Fluent Discord Bot
+
 
 ## A Translation Bot
 
