@@ -11,7 +11,7 @@ from langcodes import Language
 from iso_639_2 import iso_639_choices
 from translateMOD import translate
 
-TOKEN = 'MTI0NDc2NTgyMDk3MDg2NDcyMQ.GpbLWp.OW4akf_hauamHQLUkdogRmncFIbEXX0yU9nU5U'
+TOKEN = '[Token]'
 
 name = 'Fluent'
 
